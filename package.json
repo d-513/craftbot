@@ -1,0 +1,24 @@
+{
+  "name": "craftbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/shard.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "discord.js": "^12.2.0",
+    "discord.js-commando": "github:discordjs/Commando",
+    "dotenv": "^8.2.0",
+    "imgur": "^0.3.1",
+    "minecraft-chat-packet": "^1.0.0",
+    "mineflayer": "^2.19.0"
+  }
+}
