@@ -4,13 +4,16 @@
   "description": "",
   "main": "src/shard.js",
   "scripts": {
-    "start": "nodemon ."
+    "start": "nodemon .",
+    "lint": "standard",
+    "fix": "standard --fix"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.4",
+    "standard": "^14.3.4"
   },
   "dependencies": {
     "axios": "^0.19.2",
