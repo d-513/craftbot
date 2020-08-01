@@ -1,6 +1,6 @@
 # Usage
 
-Invite the bot: [here](https://discord.com/api/oauth2/authorize?client_id=678231623287701514&permissions=8&redirect_uri=https%3A%2F%2Fsite.dada513.eu&response_type=code&scope=identify%20bot)
+Invite the bot: [here](https://discord.com/api/oauth2/authorize?client_id=727533333646409818&permissions=8&scope=bot)
 
 ### Commands
 
